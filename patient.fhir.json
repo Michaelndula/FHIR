@@ -1,0 +1,33 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Michael"],
+            "family": "Ndula"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1998-10-28",
+    "telecom": [
+        {
+            "value": "254794316045",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "michaelndula@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "44, Karen"
+            ],
+            "city": "Nairobi",
+            "state": "Nairobi",
+            "postalCode": "00502"
+        }
+    ]
+}
